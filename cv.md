@@ -38,8 +38,8 @@ Now I am studying programming languages, in particular, JavaScript. I can be des
 ### Education
 * **Univercity**: Saint Petersburg Electrotechnical University «LETI», Master’s Degree in Micro and Nanotechnology, 2013-2019
 * **Courses**
-    1. [HTML Academy](https://htmlacademy.ru/)
-    2. [RS School, JS/Front-end(in progress)](https://rs.school/)
+    + [HTML Academy](https://htmlacademy.ru/)
+    + [RS School, JS/Front-end(in progress)](https://rs.school/)
 ### Languages
 * **Russian** - native
 * **Belarusian** - native
