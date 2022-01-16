@@ -1,10 +1,10 @@
- # Sergey Zmitrukevich
- ### Contacts:
+# Sergey Zmitrukevich
+ ### Contacts
  * **Discord:** Zmitruchok_#1835
  * **E-mail:** zmidrul@gmail.com
  * **Phone:** +7 911 746 7069
  * **GitHub:** [szmitrukevich](https://github.com/szmitrukevich)
- ### About myself:
+### About myself:
  I am 26 years old. Graduated from St. Petersburg Electrotechnical University with a degree in Micro- and Nanotechnology.
 Now I am studying programming languages, in particular, JavaScript. I can be described as an inquisitive and hardworking person, ready for stressful situations, learning quickly and solving difficult problems.
 ### Skills
